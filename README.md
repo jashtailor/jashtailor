@@ -31,7 +31,7 @@ NYU, MS in Management of Technology. University of Mumbai, BE in Computer Scienc
 
 If you're dealing with messy operational data, need AI agents actually deployed (not just demoed), or want a pipeline built end to end, I'd like to hear about it.
 
-- Email: jash@gryps.io
+- Email: jashtailor18@gmail.com
 - LinkedIn: [linkedin.com/in/jashtailor](https://linkedin.com/in/jashtailor)
 
 ---
